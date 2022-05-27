@@ -15,3 +15,13 @@
 •Used matplotlib
 
 •line plots with variations
+
+# [Project 3: Digital Assistant With Facial recognition](https://github.com/Dolraj/Artificial_assistant)
+
+•Final Year Project
+
+•Face recognition using LBPH method
+
+•Viola Jones algorithm for face detection
+
+•google speech api
