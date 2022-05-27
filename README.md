@@ -1,4 +1,4 @@
-# [Project1: Heart disease predictor](https://github.com/DolrajRijal/Dolraj_Rijal/blob/main/Heart_disease_predictor.ipynb)
+# [Project 1: Heart disease predictor](https://github.com/DolrajRijal/Dolraj_Rijal/blob/main/Heart_disease_predictor.ipynb)
  
 •Data visualization and analysis with matplotlib
  
@@ -8,7 +8,7 @@
  
 •Predictive model creation
 
-#[project 2: Data visualization](https://github.com/DolrajRijal/helloworld/blob/main/Data_visualization2.ipynb)
+# [project 2: Data visualization](https://github.com/DolrajRijal/helloworld/blob/main/Data_visualization2.ipynb)
 
 •Data visualization practice
 
