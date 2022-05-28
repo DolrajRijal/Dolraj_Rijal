@@ -8,7 +8,7 @@
  
 •Predictive model creation
 
-# [Project 2: Data Visualization](https://github.com/DolrajRijal/helloworld/main/Data_visualization2.ipynb)
+# [Project 2: Data Visualization](https://github.com/DolrajRijal/helloworld/blob/544246bad5aa7d9626310a266409cba6be1694cb/Data_Visualization2.ipynb)
 
 •Data visualization practice
 
