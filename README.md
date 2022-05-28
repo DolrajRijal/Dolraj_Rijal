@@ -1,4 +1,4 @@
-# [Project 1: Heart Disease Predictor](http://github.com/DolrajRijal/Python-Projects/main/Heart_Disease_Predictor.ipynb)
+# [Project 1: Heart Disease Predictor](https://github.com/DolrajRijal/Python-Projects/blob/6cc2cbcbc7874904bc45661edd2e2e95ac3e2a0d/Heart_Disease_Predictor.ipynb)
  
 •Data visualization and analysis with matplotlib
  
