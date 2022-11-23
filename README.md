@@ -25,3 +25,11 @@
 •Viola Jones algorithm for face detection
 
 •google speech api
+
+
+
+# [Project 4: web scraping merojob job portal](https://github.com/DolrajRijal/Python-Projects/blob/main/Mero_job_scraping7.ipynb)
+-used Beautiful soup 
+-learnt data extraction from a website
+
+•
